@@ -9,3 +9,5 @@
 [Linux内核漏洞CVE-2016-0728的分析与利用](http://bobao.360.cn/learning/detail/2576.html)
 
 [潜伏11年的Linux内核提权漏洞曝光 ](http://www.freebuf.com/news/127620.html)
+
+[CVE-2017-5123 Linux kernel v4.13 (Disable SELinux)](http://www.openwall.com/lists/oss-security/2017/10/25/2)
