@@ -11,3 +11,10 @@
 [潜伏11年的Linux内核提权漏洞曝光 ](http://www.freebuf.com/news/127620.html)
 
 [CVE-2017-5123 Linux kernel v4.13 (Disable SELinux)](http://www.openwall.com/lists/oss-security/2017/10/25/2)
+
+[Exploiting Windows 10 Kernel Drivers - Stack Overflow](https://blog.xpnsec.com/hevd-stack-overflow/)
+
+[Making something out of Zeros: Alternative primitive for Windows Kernel Exploitation](https://www.coresecurity.com/blog/making-something-out-zeros-alternative-primitive-windows-kernel-exploitation)
+
+[CVE-2016-0165从补丁到exploit](https://www.anquanke.com/post/id/93105)
+
