@@ -18,3 +18,5 @@
 
 [CVE-2016-0165从补丁到exploit](https://www.anquanke.com/post/id/93105)
 
+[Abusing GDI for ring0 exploit primitives: Reloaded](https://www.coresecurity.com/publication/abusing-gdi-ring0-exploit-primitives-reloaded)
+
