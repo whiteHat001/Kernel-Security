@@ -20,3 +20,5 @@
 
 [Abusing GDI for ring0 exploit primitives: Reloaded](https://www.coresecurity.com/publication/abusing-gdi-ring0-exploit-primitives-reloaded)
 
+[windows_10_rs2_rs3_exploitation_primitives](https://census-labs.com/media/windows_10_rs2_rs3_exploitation_primitives.pdf)
+
