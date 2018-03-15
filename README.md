@@ -22,3 +22,7 @@
 
 [windows_10_rs2_rs3_exploitation_primitives](https://census-labs.com/media/windows_10_rs2_rs3_exploitation_primitives.pdf)
 
+[windows-smbv3-null-pointer-dereference-vulnerability] https://krbtgt.pw/smbv3-null-pointer-dereference-vulnerability/
+
+[cve-2018-0825-heap-overflow-buffer] https://www.ixiacom.com/company/blog/getting-bottom-cve-2018-0825-heap-overflow-buffer
+
