@@ -26,3 +26,5 @@
 
 [cve-2018-0825-heap-overflow-buffer] https://www.ixiacom.com/company/blog/getting-bottom-cve-2018-0825-heap-overflow-buffer
 
+[exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded]https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html
+
