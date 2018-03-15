@@ -22,9 +22,9 @@
 
 [windows_10_rs2_rs3_exploitation_primitives](https://census-labs.com/media/windows_10_rs2_rs3_exploitation_primitives.pdf)
 
-[windows-smbv3-null-pointer-dereference-vulnerability] https://krbtgt.pw/smbv3-null-pointer-dereference-vulnerability/
+[windows-smbv3-null-pointer-dereference-vulnerability] (https://krbtgt.pw/smbv3-null-pointer-dereference-vulnerability/)
 
-[cve-2018-0825-heap-overflow-buffer] https://www.ixiacom.com/company/blog/getting-bottom-cve-2018-0825-heap-overflow-buffer
+[cve-2018-0825-heap-overflow-buffer] (https://www.ixiacom.com/company/blog/getting-bottom-cve-2018-0825-heap-overflow-buffer)
 
-[exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded]https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html
+[exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded](https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html)
 
