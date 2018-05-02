@@ -28,3 +28,5 @@
 
 [exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded](https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html)
 
+[urther Advancements in Detecting Kernel Infoleaks with x86 Emulation](http://j00ru.vexillium.org/slides/2018/infiltrate.pdf)
+
