@@ -30,3 +30,5 @@
 
 [urther Advancements in Detecting Kernel Infoleaks with x86 Emulation](http://j00ru.vexillium.org/slides/2018/infiltrate.pdf)
 
+[Save and Reborn GDI data-only attack from Win32k TypeIsolation](https://www.anquanke.com/post/id/107532)
+
