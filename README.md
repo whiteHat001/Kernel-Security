@@ -32,3 +32,7 @@
 
 [Save and Reborn GDI data-only attack from Win32k TypeIsolation](https://www.anquanke.com/post/id/107532)
 
+[对 UAF 漏洞 CVE-2016-0167 的分析和利用](https://www.anquanke.com/post/id/107385)
+
+[Windows内核漏洞分析：CVE-2018-0744](https://www.anquanke.com/post/id/107385)
+
