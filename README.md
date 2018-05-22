@@ -36,3 +36,8 @@
 
 [Windows内核漏洞分析：CVE-2018-0744](https://www.anquanke.com/post/id/107385)
 
+[RING 0 EXPLOIT ](https://blog.can.ac/2018/05/11/arbitrary-code-execution-at-ring-0-using-cve-2018-8897/)
+
+[通过对比 5 月补丁分析 win32k 空指针解引用漏洞](https://www.anquanke.com/post/id/145025)
+
+[Windows 10 Fall Creators Update安全新特性之WDEG](https://hk.saowen.com/a/c349626fb50ebd1cba721ce30b81ea4428f958fb5e3ae6dc24dad321254f11b8)
