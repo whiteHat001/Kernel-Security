@@ -43,3 +43,5 @@
 [Windows 10 Fall Creators Update安全新特性之WDEG](https://hk.saowen.com/a/c349626fb50ebd1cba721ce30b81ea4428f958fb5e3ae6dc24dad321254f11b8)
 
 [通过 Windows 用户模式回调实施的内核攻击](https://paper.seebug.org/575/)
+
+[ANALYZING AN INTEGER OVERFLOW IN BITDEFENDER AV: PART](https://www.zerodayinitiative.com/blog/2018/6/19/analyzing-an-integer-overflow-in-bitdefender-av-part-1-the-vulnerability)
