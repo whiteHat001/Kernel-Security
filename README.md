@@ -45,3 +45,5 @@
 [通过 Windows 用户模式回调实施的内核攻击](https://paper.seebug.org/575/)
 
 [ANALYZING AN INTEGER OVERFLOW IN BITDEFENDER AV: PART](https://www.zerodayinitiative.com/blog/2018/6/19/analyzing-an-integer-overflow-in-bitdefender-av-part-1-the-vulnerability)
+
+[Detailed Analysis of macOS Vulnerability CVE-2019-8507](https://www.fortinet.com/blog/threat-research/detailed-analysis-mac-os-vulnerability-cve-2019-8507.html)
